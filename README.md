@@ -13,7 +13,7 @@ An interactive PowerBI dashboard can be found here [link].
 # Data Structure Overview
 The data tables utilized consist of 7 tables with a total row count of 4,160 records.
 
-![Executive Summary](./ERDdiagram.png)
+![ERD](./images/ERDdiagram.png)
 
 The Entity Relationship Diagram above is included in the report illustrates:
 
@@ -35,7 +35,7 @@ These adjustments ensured logical integrity before financial and occupancy model
 
 Across the two-year period (2025–2026), the portfolio is operating at a negative **Net Operating Income (NOI).** The factor contributing to this is a **Total Expense** amount that is higher than the **Total Revenue** amount. The analysis of each of these values will give insight on where improvements can be made to correct this imbalance. Below is the overview page which indicates that this negative trend has been consistent over the two year data of these lease up properties..This is not specific to just one of the properties, rather they all are operating at a loss.
 
-[insert photo 1 here]
+![Page 1](./images/1-Executive-Financial-Overview.png)
 
 
 # Notable Insights
@@ -46,7 +46,8 @@ Across the two-year period (2025–2026), the portfolio is operating at a negati
 
 * **Collection Rates are generally stable.** Out of the **$1.52M** of total revenue, **$101.26K** is the amount of unpaid charges.; As described below in the accounts receivable card. Revenue leakage is not the primary driver of negative NOI with the overall collection rate at **93.32%.**
 
-[insert photo 2 here]
+![Page 2](./images/2-Revenue-and-Occupancy-Performance.png)
+
 *Included in this page of the dashboard is a metric that uses average monthly rent and total units in a property to calculate the projected monthly and annual revenue at 100% occupancy. This gives insight on the potential operating revenue of these properties.*
 
 
@@ -65,8 +66,9 @@ Across the two-year period (2025–2026), the portfolio is operating at a negati
 
 * **Vendor categories.** Top category spending: **cleaning, repairs, and utilities.** The total expenses for these categories usually increase with the number of residents occupyinng a property. Properties with healthy occupancies require constant unit "turns" and preperation for new residents which drive up repair and cleaning costs.
 
-[insert photo 3 here]
-[insert photo 4 here]
+![Page 3](./images/3-Expense-Management.png)
+
+![Page 4](./images/5-Data-Architecture-and-Metrics.png)
 
 * **Trends accross properties.**  Expense levels are consistently elevated across properties in the region, suggesting this is not an isolated property issue. In conclusion, cost structure appears oversized relative to asset stabilization stage.
 
