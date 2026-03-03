@@ -13,7 +13,7 @@ An interactive PowerBI dashboard can be found here [link].
 # Data Structure Overview
 The data tables utilized consist of 7 tables with a total row count of 4,160 records.
 
-[insert erd here]
+![Executive Summary](./ERDdiagram.png)
 
 The Entity Relationship Diagram above is included in the report illustrates:
 
