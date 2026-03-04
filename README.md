@@ -8,7 +8,7 @@ The objecive of this analaysis is to evaluate:
 - **Accounts Payable/Expenses:** Vendor Spending and invoice management
 - **Leasing Performance:** Occupancy Rate
 
-The interactive PowerBI dashboard can be found [here]([https://powerbi.microsoft.com](https://app.powerbi.com/groups/me/reports/93969d02-fa6d-460a-95e3-65d38b1045ee?ctid=bb932f15-ef38-42ba-91fc-f3c59d5dd1f1&pbi_source=linkShare))
+The interactive PowerBI dashboard can be found [here](https://app.powerbi.com/groups/me/reports/93969d02-fa6d-460a-95e3-65d38b1045ee?ctid=bb932f15-ef38-42ba-91fc-f3c59d5dd1f1&pbi)
 
 # Data Structure Overview
 The data tables utilized consist of 7 tables with a total row count of 4,160 records.
