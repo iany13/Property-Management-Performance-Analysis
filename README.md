@@ -68,7 +68,9 @@ Across the two-year period (2025–2026), the portfolio is operating at a negati
 
 ![Page 3](./images/3-Expense-Management.png)
 
-![Page 4](./images/5-Data-Architecture-and-Metrics.png)
+![Page 4](./images/4-Performance-Analysis.png)
+
+![Page 5](./images/5-Data-Architecture-and-Metrics.png)
 
 * **Trends accross properties.**  Expense levels are consistently elevated across properties in the region, suggesting this is not an isolated property issue. In conclusion, cost structure appears oversized relative to asset stabilization stage.
 
